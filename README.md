@@ -6,4 +6,4 @@
 
 > Code is in R md file. 
 
-> <img src="   "> 
+> <img src="https://raw.githubusercontent.com/mefrazi2/geopuzzle21/main/puzzle_challenge_times.png"> 
