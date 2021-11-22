@@ -27,7 +27,9 @@ time_data %>%
   ggplot(aes(x=Puzzle, y=Time, color=Puzzle)) +
   geom_boxplot()+
   geom_jitter(width=0.15, alpha=0.5)+
-  labs(title = "Distribution of Final Times for Geopuzzle Challenge 2021", 
+  scale_y_log10()+
+  theme(plot.title = element_text (hjust = 0.5)) +
+  labs(title = "Distribution of Final Times for Geopuzzle Challenge 2021",
        x="Puzzle Type", 
        y = "Time (minutes)") +
   scale_x_discrete(guide = guide_axis(n.dodge=2))+
