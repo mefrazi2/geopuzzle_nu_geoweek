@@ -5,5 +5,3 @@
 > Thanks to [datavizpyr](https://datavizpyr.com/) for the inspo!
 
 > Code is in R md file. 
-
-> <img src="https://raw.githubusercontent.com/mefrazi2/geopuzzle21/main/puzzle_challenge_times.png"> 
