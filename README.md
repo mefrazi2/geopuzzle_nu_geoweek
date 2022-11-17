@@ -1,12 +1,9 @@
 ## **Geopuzzle Challenge at Main Library, Northwestern University.** 
 
-| Year | Participant Total |
-
-| --------------- | --------------- |
-
-| 2021 | 162 |
-
-| 2022 | 189 |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 > Thanks to [datavizpyr](https://datavizpyr.com/) for the inspo!
 
