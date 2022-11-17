@@ -2,8 +2,8 @@
 
 | Year  | Participant Total |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 2021  | 162  |
+| 2022  | 189  |
 
 > Thanks to [datavizpyr](https://datavizpyr.com/) for the inspo!
 
