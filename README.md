@@ -1,6 +1,12 @@
-## **Geopuzzle Challenge 2021 at Main Library, Northwestern University.** 
+## **Geopuzzle Challenge at Main Library, Northwestern University.** 
 
-> Total participants was 162. Individuals were able to complete puzzles as many times as they wanted. 
+| Year | Participant Total |
+
+| --------------- | --------------- |
+
+| 2021 | 162 |
+
+| 2022 | 189 |
 
 > Thanks to [datavizpyr](https://datavizpyr.com/) for the inspo!
 
