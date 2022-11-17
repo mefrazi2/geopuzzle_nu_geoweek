@@ -1,6 +1,6 @@
 ## **Geopuzzle Challenge at Main Library, Northwestern University.** 
 
-| First Header  | Second Header |
+| Year  | Participant Total |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
