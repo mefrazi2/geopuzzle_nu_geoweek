@@ -1,4 +1,4 @@
-## **Geopuzzle Challenge at Main Library, Northwestern University.** 
+## **Geopuzzle Challenge at Main Library, Northwestern University** 
 
 | Year  | Participant Total |
 | ------------- | ------------- |
