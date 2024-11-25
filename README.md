@@ -4,6 +4,8 @@
 | ------------- | ------------- |
 | 2021  | 162  |
 | 2022  | 189  |
+| 2023  | ???  |
+| 2024  | 138  |
 
 > Thanks to [datavizpyr](https://datavizpyr.com/) for the inspo!
 
