@@ -1,26 +1,131 @@
-USA_Canada,World,Europe,Africa_Mid_East,Latin_America,Asia
-3:49,4:32,4:04,5:43,5:22,4:22
-3:49,5:46,4:09,5:43,5:22,4:33
-4:57,5:58,4:43,5:45,5:30,4:34
-4:57,6:23,4:46,6:12,5:30,4:50
-5:00,6:32,4:49,6:16,5:52,4:50
-5:12,6:38,5:31,6:23,5:58,5:15
-5:12,6:45,5:31,6:34,5:58,5:15
-5:46,7:10,6:40,6:37,6:07,5:17
-5:52,7:15,7:02,6:41,6:14,5:40
-6:10,7:25,7:02,8:14,6:17,5:46
-6:10,7:43,7:20,9:20,6:17,5:48
-6:24,8:02,9:49,10:27,6:23,6:02
-7:00,9:11,10:55,11:37,6:30,6:23
-7:29,9:44,11:35,11:37,6:32,7:49
-7:31,9:44,11:54,11:39,6:42,8:00
-8:14,9:47,11:58,11:56,6:58,8:20
-8:57,11:24,20:57,12:17,7:02,8:20
-9:11,11:24,23:36,12:39,8:04,12:34
-11:22,11:34,27:35,13:47,8:09,13:38
-14:42,12:00,DNC,15:56,10:12,14:46
-26:44,12:16,,17:22,10:12,DNC
-27:17,13:59,,32:14,11:17,DNC
-DNC,14:42,,DNC,12:40,
-,16:30,,,13:52,
-,25:06,,,DNC,
+Puzzle,Time
+United States and Canada,3.49
+United States and Canada,3.49
+United States and Canada,4.57
+United States and Canada,4.57
+United States and Canada,5
+United States and Canada,5.12
+United States and Canada,5.12
+United States and Canada,5.46
+United States and Canada,5.52
+United States and Canada,6.1
+United States and Canada,6.1
+United States and Canada,6.24
+United States and Canada,7
+United States and Canada,7.29
+United States and Canada,7.31
+United States and Canada,8.14
+United States and Canada,8.57
+United States and Canada,9.11
+United States and Canada,11.22
+United States and Canada,14.42
+United States and Canada,26.44
+United States and Canada,27.17
+World,4.32
+World,5.46
+World,5.58
+World,6.23
+World,6.32
+World,6.28
+World,6.45
+World,7.1
+World,7.15
+World,7.25
+World,7.43
+World,8.02
+World,9.11
+World,9.44
+World,9.47
+World,11.24
+World,11.34
+World,11.24
+World,12
+World,12.16
+World,13.59
+World,14.42
+World,16.3
+World,25.06
+Europe,4.04
+Europe,4.09
+Europe,4.43
+Europe,4.46
+Europe,4.49
+Europe,5.31
+Europe,5.31
+Europe,6.4
+Europe,7.02
+Europe,7.02
+Europe,7.2
+Europe,9.49
+Europe,10.55
+Europe,11.35
+Europe,11.54
+Europe,11.58
+Europe,20.57
+Europe,23.26
+Europe,27.35
+Africa and Middle East,5.43
+Africa and Middle East,5.43
+Africa and Middle East,5.45
+Africa and Middle East,6.12
+Africa and Middle East,6.16
+Africa and Middle East,6.23
+Africa and Middle East,6.34
+Africa and Middle East,6.37
+Africa and Middle East,6.41
+Africa and Middle East,8.14
+Africa and Middle East,9.2
+Africa and Middle East,10.27
+Africa and Middle East,11.37
+Africa and Middle East,11.37
+Africa and Middle East,11.39
+Africa and Middle East,11.56
+Africa and Middle East,12.17
+Africa and Middle East,12.39
+Africa and Middle East,13.47
+Africa and Middle East,15.56
+Africa and Middle East,17.22
+Africa and Middle East,32.14
+Central and South America,5.22
+Central and South America,5.22
+Central and South America,5.3
+Central and South America,5.52
+Central and South America,5.58
+Central and South America,5.58
+Central and South America,6.07
+Central and South America,6.14
+Central and South America,6.17
+Central and South America,6.17
+Central and South America,6.23
+Central and South America,6.3
+Central and South America,6.32
+Central and South America,6.42
+Central and South America,6.58
+Central and South America,7.02
+Central and South America,8.04
+Central and South America,8.09
+Central and South America,10.12
+Central and South America,10.12
+Central and South America,11.17
+Central and South America,12.4
+Central and South America,13.52
+Asia,4.22
+Asia,4.33
+Asia,4.34
+Asia,4.5
+Asia,4.5
+Asia,5.15
+Asia,5.15
+Asia,5.17
+Asia,5.4
+Asia,5.46
+Asia,5.48
+Asia,6.02
+Asia,6.23
+Asia,7.49
+Asia,8
+Asia,8.2
+Asia,8.2
+Asia,12.34
+Asia,13.38
+Asia,14.46
