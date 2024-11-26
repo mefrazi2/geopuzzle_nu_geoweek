@@ -9,4 +9,4 @@
 
 > Thanks to [datavizpyr](https://datavizpyr.com/) for the inspo!
 
-> Code is in R md file. 
+> Code is in .R file. 
