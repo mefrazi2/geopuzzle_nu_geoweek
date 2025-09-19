@@ -6,7 +6,6 @@
 | 2022  | 189  |
 | 2023  | ???  |
 | 2024  | 138  |
+| 2025  |   |
 
 > Thanks to [datavizpyr](https://datavizpyr.com/) for the inspo!
-
-> Code is in .R file. 
