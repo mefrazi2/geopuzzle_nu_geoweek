@@ -7,5 +7,4 @@
 | 2023  | ???  |
 | 2024  | 138  |
 | 2025  |   |
-
-> Thanks to [datavizpyr](https://datavizpyr.com/) for the inspo!
+| 2026  |   |
